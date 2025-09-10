@@ -1,3 +1,3 @@
 # ZOO800_2025
 Repository for ZOO800 coursework at UW-Madison, fall 2025.
-Test line from macbook air, rstudio.
+GitHub/RStudio connection established 9/10/2025.
